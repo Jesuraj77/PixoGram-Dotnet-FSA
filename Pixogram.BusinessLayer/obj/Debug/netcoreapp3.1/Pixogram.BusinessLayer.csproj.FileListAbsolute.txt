@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp3.1\Pixogram.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp3.1\Pixogram.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp3.1\Pixogram.BusinessLayer.AssemblyInfo.cs

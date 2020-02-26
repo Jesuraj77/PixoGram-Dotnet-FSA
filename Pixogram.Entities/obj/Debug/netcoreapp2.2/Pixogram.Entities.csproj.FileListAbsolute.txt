@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.deps.json
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.pdb

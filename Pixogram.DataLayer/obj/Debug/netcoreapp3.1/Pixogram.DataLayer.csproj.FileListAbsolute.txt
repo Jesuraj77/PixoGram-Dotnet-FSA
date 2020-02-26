@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Pixogram\Pixogram.DataLayer\bin\Debug\netcoreapp3.1\Pixogram.Entities.dll
+C:\Users\Admin\source\repos\Pixogram\Pixogram.DataLayer\obj\Debug\netcoreapp3.1\Pixogram.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.DataLayer\obj\Debug\netcoreapp3.1\Pixogram.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.DataLayer\obj\Debug\netcoreapp3.1\Pixogram.DataLayer.AssemblyInfo.cs

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Pixogram.Entities/1.0.0": {
+        "runtime": {
+          "Pixogram.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pixogram.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

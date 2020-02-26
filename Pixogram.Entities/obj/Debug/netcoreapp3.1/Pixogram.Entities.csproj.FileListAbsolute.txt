@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp3.1\Pixogram.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp3.1\Pixogram.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp3.1\Pixogram.Entities.AssemblyInfo.cs
