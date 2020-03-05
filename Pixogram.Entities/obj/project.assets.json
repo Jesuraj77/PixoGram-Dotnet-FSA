@@ -687,26 +687,23 @@
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net PixogramWithTesting\\PixogramwithTest-Code\\Pixogram\\Pixogram.Entities\\Pixogram.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PixoGramcodetestscrpt\\Pixogram.Entities\\Pixogram.Entities.csproj",
       "projectName": "Pixogram.Entities",
-      "projectPath": "E:\\.Net PixogramWithTesting\\PixogramwithTest-Code\\Pixogram\\Pixogram.Entities\\Pixogram.Entities.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\PixoGramcodetestscrpt\\Pixogram.Entities\\Pixogram.Entities.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net PixogramWithTesting\\PixogramwithTest-Code\\Pixogram\\Pixogram.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\PixoGramcodetestscrpt\\Pixogram.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -737,16 +734,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

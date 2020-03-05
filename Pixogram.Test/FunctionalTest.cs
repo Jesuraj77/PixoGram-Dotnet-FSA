@@ -25,7 +25,7 @@ namespace Pixogram.Test
 
 
         [Fact]
-        public void TestForValidRegistrations()
+        public void TestFor_ValidRegistrations()
         {
             //Arrange
 
@@ -36,12 +36,12 @@ namespace Pixogram.Test
             var isRegistered = _service.Register(user);
 
             //Assert
-            Assert.Equal(true, isRegistered);
+           
             Assert.True(isRegistered);
         }
 
         [Fact]
-        public void TestForValidLogin()
+        public void TestFor_ValidLogin()
         {
             //Arrange
 
@@ -52,13 +52,13 @@ namespace Pixogram.Test
             var isLogged = _service.Login(user.UserName, user.Password);
 
             //Assert
-            Assert.Equal(true, isLogged);
+          
             Assert.True(isLogged);
 
         }
 
         [Fact]
-        public void TestForValidResetPassword()
+        public void TestFor_ValidResetPassword()
         {
             //Arrange
 
@@ -69,29 +69,13 @@ namespace Pixogram.Test
             var isResetted = _service.ResetPassword(user.Password);
 
             //Assert
-            Assert.Equal(true, isResetted);
+            
             Assert.True(isResetted);
         }
 
+      
         [Fact]
-        public void GetProfile()
-        {
-            //Arrange
-
-            User user = new User { Id = 11, FirstName = "John", LastName = "HS", UserName = "John", Email = "John@gmail.com", Password = "1234567890", ProfilePicture = "https://unsplash.com/photos/p7mo8-CG5Gs" };
-
-
-            //Action
-            var RecievedUser = _service.GetProfile(user.Id);
-            var DbRecievedUser = _service.GetUserById(user.Id);
-
-            //Assert
-            Assert.Equal(DbRecievedUser, RecievedUser);
-
-
-        }
-        [Fact]
-        public void TestForVaidUpadtingProfile()
+        public void TestFor_VaidUpadtingProfile()
         {
             //Arrange
 
@@ -102,12 +86,12 @@ namespace Pixogram.Test
             var isUpDated = _service.UpdateProfile(user);
 
             //Assert
-            Assert.Equal(true, isUpDated);
+           
             Assert.True(isUpDated);
 
         }
         [Fact]
-        public void DeleteProfle()
+        public void TestFor_DeleteProfle()
         {
             //Arrange
 
@@ -118,12 +102,13 @@ namespace Pixogram.Test
             var isDeleted = _service.DeleteProfile(user.Id);
 
             //Assert
-            Assert.Equal(true, isDeleted);
+            
             Assert.True(isDeleted);
 
         }
+
         [Fact]
-       public void TestForValidAddContent()
+       public void TestFor_ValidAddContent()
        {
          //Arrange
           List<Content> contentlist = new List<Content>();
@@ -138,15 +123,15 @@ namespace Pixogram.Test
            var isAdded = _service.AddContent(contentlist, user.Id);
 
            //Assert
-           Assert.Equal(true, isAdded);
+          
            Assert.True(isAdded);
 
         }
 
          [Fact]
-        public void TestValidOrganiceImage()
+        public void TestFor_ValidOrganizeImage()
         {
-    //Arrange
+            //Arrange
             List<Content> contentlist = new List<Content>();
             User user = new User{Id = 11, FirstName = "John", LastName = "HS", UserName = "John", Email = "John@gmail.com", Password = "1234567890", ProfilePicture = "https://unsplash.com/photos/p7mo8-CG5Gs"};
 
@@ -163,7 +148,7 @@ namespace Pixogram.Test
         [Fact]
         public void TestForValidOrganiceVideo()
         {
-    //Arrange
+        //Arrange
          List<Content> contentlist = new List<Content>();
          User user = new User{Id = 11, FirstName = "John", LastName = "HS", UserName = "John", Email = "John@gmail.com", Password = "1234567890", ProfilePicture = "https://unsplash.com/photos/p7mo8-CG5Gs"};
 
@@ -176,6 +161,7 @@ namespace Pixogram.Test
          Assert.Equal(isOrganised, Organised);
 
         }
+
         [Fact]
         public void TestForValidUpdateContent()
         {
@@ -187,11 +173,12 @@ namespace Pixogram.Test
          var isContetUpadated = _service.UpdateContent(user.Id, content);
 
             //Assert
-         Assert.Equal(true, isContetUpadated);
+         
          Assert.True(isContetUpadated);
 
 
         }
+
         [Fact]
         public void TestForValidAddComment()
         {
@@ -201,7 +188,7 @@ namespace Pixogram.Test
             var isAdded = _service.AddComment(feedback);
 
             //Assert
-            Assert.Equal(true, isAdded);
+           
             Assert.True(isAdded);
         }
 
@@ -215,13 +202,13 @@ namespace Pixogram.Test
           var isFollowed = _service.FollowUser(user.Id, 2);
 
             //Assert
-          Assert.Equal(true, isFollowed);
+         
           Assert.True(isFollowed);
 
          }
 
         [Fact]
-        public void TestForValidHideMedia()
+        public void TestFor_ValidHideMedia()
         {
             //Arrange
             Content content = new Content{ Image = "https://unsplash.com/photos/p7mo8-CG5Gs", Visibility=true, Video = "https://unsplash.com/photos/p7mo8-CG5Gs" };
@@ -230,9 +217,18 @@ namespace Pixogram.Test
             var isHided = _service.HideMedia(content.Image,content.Visibility,content.Video) ;
 
             //Assert
-            Assert.Equal(true, isHided);
+            
             Assert.True(isHided);
 
+        }
+        [Fact]
+        public void TestFor_InvalidConfirmPassword()
+        {
+            User user = new User { Password = "123", ConfirmPassword = "1234" };
+            var pass = user.Password.Length;
+            var ConfirmPass = user.ConfirmPassword.Length;
+
+            Assert.Equal(pass, ConfirmPass);
         }
 
     }

@@ -5,3 +5,11 @@ C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\P
 C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.dll
 C:\Users\Admin\source\repos\Pixogram\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.deps.json
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.Entities\obj\Debug\netcoreapp2.2\Pixogram.Entities.pdb

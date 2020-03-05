@@ -11,3 +11,17 @@ C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\bin\Debug\netcoreapp
 C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csproj.CopyComplete
 C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
 C:\Users\Admin\source\repos\Pixogram\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.deps.json
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\Admin\Desktop\PixoGramcodetestscrpt\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb

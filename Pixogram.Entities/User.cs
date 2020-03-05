@@ -12,6 +12,7 @@ namespace Pixogram.Entities
         public virtual string UserName { get; set; }
         public virtual string Email { get; set; }
         public virtual string Password { get; set; }
+        public virtual string ConfirmPassword { get; set; }
         public virtual string ProfilePicture { get; set; }
     }
 }
